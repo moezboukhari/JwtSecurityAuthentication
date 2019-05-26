@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SecServiceApplication",
+            "request": "launch",
+            "mainClass": "org.sid.SecServiceApplication",
+            "projectName": "sec-service"
+        }
+    ]
+}

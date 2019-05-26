@@ -11,6 +11,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import java.util.stream.Stream;
 
 @SpringBootApplication
+
 public class SecServiceApplication {
 
     public static void main(String[] args) {
